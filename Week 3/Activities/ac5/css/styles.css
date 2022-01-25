@@ -1,0 +1,8 @@
+#page-banner {
+	height: 40vh;
+	background: url("../images/take-a-hike-banner.jpg") no-repeat center center;
+	background-size: cover;
+	margin-bottom: 20px;
+	background-color: #cccccc;
+}
+
