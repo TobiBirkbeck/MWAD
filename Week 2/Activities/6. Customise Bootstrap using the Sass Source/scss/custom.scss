@@ -1,0 +1,14 @@
+@import url('http://fonts.googleapis.com/css?family=Dosis');
+
+$h1-font-size:                2.0rem;
+$h2-font-size:                1.75rem;
+$headings-color:              #c70039;
+$headings-font-family:        "Dosis";
+$jumbotron-color:             null !default;
+$jumbotron-bg:                #EAE0E3;
+
+$heading-letter-spacing: 3px;
+
+h1, h2 { letter-spacing: $heading-letter-spacing;}
+
+@import "../bootstrap/scss/bootstrap";
